@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{98464C8C-A6FE-48BB-B300-52A2F0DBD761}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Teads/Test.cs">
+    <Files>
+      <File FileName="Teads/Test.cs" Line="46" Column="43" />
+      <File FileName="Teads/Node.cs" Line="94" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/Test.cs" relfile="Teads/Test.cs" line="103" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Teads PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

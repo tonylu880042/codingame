@@ -1,0 +1,8 @@
+/Users/tonylu/projects/StockExchange/StockExchange/bin/Debug/StockExchange.dll
+/Users/tonylu/projects/StockExchange/StockExchange/bin/Debug/StockExchange.pdb
+/Users/tonylu/projects/StockExchange/StockExchange/bin/Debug/nunit.framework.dll
+/Users/tonylu/projects/StockExchange/StockExchange/bin/Debug/nunit.framework.xml
+/Users/tonylu/projects/StockExchange/StockExchange/obj/Debug/StockExchange.csprojResolveAssemblyReference.cache
+/Users/tonylu/projects/StockExchange/StockExchange/obj/Debug/StockExchange.csproj.CoreCompileInputs.cache
+/Users/tonylu/projects/StockExchange/StockExchange/obj/Debug/StockExchange.dll
+/Users/tonylu/projects/StockExchange/StockExchange/obj/Debug/StockExchange.pdb

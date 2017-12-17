@@ -1,0 +1,8 @@
+/Users/tonylu/projects/LastCrusade/LastCrusade/bin/Debug/LastCrusade.dll
+/Users/tonylu/projects/LastCrusade/LastCrusade/bin/Debug/LastCrusade.pdb
+/Users/tonylu/projects/LastCrusade/LastCrusade/bin/Debug/nunit.framework.dll
+/Users/tonylu/projects/LastCrusade/LastCrusade/bin/Debug/nunit.framework.xml
+/Users/tonylu/projects/LastCrusade/LastCrusade/obj/Debug/LastCrusade.csprojResolveAssemblyReference.cache
+/Users/tonylu/projects/LastCrusade/LastCrusade/obj/Debug/LastCrusade.csproj.CoreCompileInputs.cache
+/Users/tonylu/projects/LastCrusade/LastCrusade/obj/Debug/LastCrusade.dll
+/Users/tonylu/projects/LastCrusade/LastCrusade/obj/Debug/LastCrusade.pdb

@@ -1,0 +1,8 @@
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/obj/Debug/Dwarfs.csprojResolveAssemblyReference.cache
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/obj/Debug/Dwarfs.csproj.CoreCompileInputs.cache
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/bin/Debug/Dwarfs.dll
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/bin/Debug/Dwarfs.pdb
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/bin/Debug/nunit.framework.dll
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/bin/Debug/nunit.framework.xml
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/obj/Debug/Dwarfs.dll
+/Users/tonylu/Dropbox/codingame/Dwarfs/Dwarfs/obj/Debug/Dwarfs.pdb

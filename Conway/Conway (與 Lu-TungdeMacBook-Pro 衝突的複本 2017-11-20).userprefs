@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C7AB1684-3221-4100-A53A-545785A11345}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conway/ConwayGenerator.cs">
+    <Files>
+      <File FileName="Conway/Test.cs" Line="8" Column="17" />
+      <File FileName="Conway/ConwayGenerator.cs" Line="9" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Conway PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

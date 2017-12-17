@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E7EA1C64-B666-4B82-8737-10ECE7B64F39}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LastCrusade/Brick.cs">
+    <Files>
+      <File FileName="LastCrusade/Test.cs" Line="69" Column="13" />
+      <File FileName="LastCrusade/Brick.cs" Line="106" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LastCrusade" expanded="True">
+            <Node name="LastCrusade" expanded="True">
+              <Node name="LastCrusade" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="TestCase" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LastCrusade PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

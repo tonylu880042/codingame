@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C2B4C62E-0D1C-494D-B31C-B32718A8F9EE}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bender/Test.cs">
+    <Files>
+      <File FileName="Bender/Test.cs" Line="542" Column="67" />
+      <File FileName="Bender/Envornment.cs" Line="418" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Bender" expanded="True">
+            <Node name="Bender" expanded="True">
+              <Node name="Bender" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="TestCase01" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Bender PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

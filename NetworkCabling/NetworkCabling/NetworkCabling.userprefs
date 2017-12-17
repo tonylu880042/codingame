@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6AB0442B-5AD2-43B6-B392-FDE317756D52}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkCabling/HouseMap.cs">
+    <Files>
+      <File FileName="NetworkCabling/Test.cs" Line="55" Column="1" />
+      <File FileName="NetworkCabling/House.cs" Line="61" Column="14" />
+      <File FileName="NetworkCabling/HouseMap.cs" Line="28" Column="14" />
+      <File FileName="NetworkCabling/testcase3.txt" Line="7" Column="2" />
+      <File FileName="NetworkCabling/testcase4.txt" Line="4" Column="2" />
+      <File FileName="NetworkCabling/testcase1.txt" Line="5" Column="8" />
+      <File FileName="NetworkCabling/testcase5.txt" Line="11" Column="11" />
+      <File FileName="NetworkCabling/testcase9.txt" Line="1" Column="1" />
+      <File FileName="NetworkCabling/EmptyTextFile.txt" Line="1" Column="23" />
+      <File FileName="NetworkCabling/testcase6.txt" Line="5" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/Test.cs" relfile="NetworkCabling/Test.cs" line="55" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetworkCabling PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

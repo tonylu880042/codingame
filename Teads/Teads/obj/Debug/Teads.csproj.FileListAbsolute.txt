@@ -1,0 +1,16 @@
+/Users/tonylu/Dropbox/codingame/Teads/Teads/bin/Debug/Teads.dll
+/Users/tonylu/Dropbox/codingame/Teads/Teads/bin/Debug/Teads.pdb
+/Users/tonylu/Dropbox/codingame/Teads/Teads/bin/Debug/nunit.framework.dll
+/Users/tonylu/Dropbox/codingame/Teads/Teads/bin/Debug/nunit.framework.xml
+/Users/tonylu/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.csprojResolveAssemblyReference.cache
+/Users/tonylu/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.csproj.CoreCompileInputs.cache
+/Users/tonylu/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.dll
+/Users/tonylu/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/bin/Debug/Teads.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/bin/Debug/Teads.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/bin/Debug/nunit.framework.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/bin/Debug/nunit.framework.xml
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.csprojResolveAssemblyReference.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.csproj.CoreCompileInputs.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Teads/Teads/obj/Debug/Teads.pdb

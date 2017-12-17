@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8D1EEE9F-FE61-4560-9138-DE33A76E7EE5}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gift/Test.cs">
+    <Files>
+      <File FileName="Gift/Test.cs" Line="167" Column="14" />
+      <File FileName="Gift/testcase9.txt" Line="1563" Column="3" />
+      <File FileName="Gift/result.txt" Line="1563" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Gift" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Gift PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

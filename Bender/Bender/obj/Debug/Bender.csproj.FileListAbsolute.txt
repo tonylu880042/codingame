@@ -1,0 +1,16 @@
+/Users/tonylu/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.csprojResolveAssemblyReference.cache
+/Users/tonylu/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.csproj.CoreCompileInputs.cache
+/Users/tonylu/Dropbox/codingame/Bender/Bender/bin/Debug/Bender.dll
+/Users/tonylu/Dropbox/codingame/Bender/Bender/bin/Debug/Bender.pdb
+/Users/tonylu/Dropbox/codingame/Bender/Bender/bin/Debug/nunit.framework.dll
+/Users/tonylu/Dropbox/codingame/Bender/Bender/bin/Debug/nunit.framework.xml
+/Users/tonylu/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.dll
+/Users/tonylu/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.csprojResolveAssemblyReference.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.csproj.CoreCompileInputs.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/obj/Debug/Bender.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/bin/Debug/Bender.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/bin/Debug/Bender.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/bin/Debug/nunit.framework.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Bender/Bender/bin/Debug/nunit.framework.xml

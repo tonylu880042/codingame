@@ -1,0 +1,8 @@
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/bin/Debug/Conway.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/bin/Debug/Conway.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/bin/Debug/nunit.framework.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/bin/Debug/nunit.framework.xml
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/obj/Debug/Conway.csprojResolveAssemblyReference.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/obj/Debug/Conway.csproj.CoreCompileInputs.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/obj/Debug/Conway.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Conway/Conway/obj/Debug/Conway.pdb

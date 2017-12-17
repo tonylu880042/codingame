@@ -1,0 +1,8 @@
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/bin/Debug/TelephoneNumb.dll
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/bin/Debug/TelephoneNumb.pdb
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/bin/Debug/nunit.framework.dll
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/bin/Debug/nunit.framework.xml
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/obj/Debug/TelephoneNumb.csprojResolveAssemblyReference.cache
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/obj/Debug/TelephoneNumb.csproj.CoreCompileInputs.cache
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/obj/Debug/TelephoneNumb.dll
+/Users/tonylu/Dropbox/codingame/TelephoneNumb/TelephoneNumb/obj/Debug/TelephoneNumb.pdb

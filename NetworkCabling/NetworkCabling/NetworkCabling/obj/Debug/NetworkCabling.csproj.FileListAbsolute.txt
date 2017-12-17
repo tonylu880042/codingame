@@ -1,0 +1,16 @@
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.csprojResolveAssemblyReference.cache
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.csproj.CoreCompileInputs.cache
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/NetworkCabling.dll
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/NetworkCabling.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/nunit.framework.dll
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/nunit.framework.xml
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.dll
+/Users/TonyMacBookPro/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.pdb
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/NetworkCabling.dll
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/NetworkCabling.pdb
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/nunit.framework.dll
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/bin/Debug/nunit.framework.xml
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.csprojResolveAssemblyReference.cache
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.csproj.CoreCompileInputs.cache
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.dll
+/Users/tonylu/Dropbox/codingame/NetworkCabling/NetworkCabling/NetworkCabling/obj/Debug/NetworkCabling.pdb

@@ -1,0 +1,8 @@
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/obj/Debug/Gift.csprojResolveAssemblyReference.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/obj/Debug/Gift.csproj.CoreCompileInputs.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/bin/Debug/Gift.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/bin/Debug/Gift.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/bin/Debug/nunit.framework.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/bin/Debug/nunit.framework.xml
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/obj/Debug/Gift.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Gift/Gift/obj/Debug/Gift.pdb

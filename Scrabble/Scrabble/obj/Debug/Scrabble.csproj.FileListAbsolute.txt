@@ -1,0 +1,16 @@
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/Scrabble.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/Scrabble.pdb
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/nunit.framework.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/nunit.framework.xml
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.csprojResolveAssemblyReference.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.csproj.CoreCompileInputs.cache
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.dll
+/Users/TonyMacBookPro/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.pdb
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/Scrabble.dll
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/Scrabble.pdb
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/nunit.framework.dll
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/bin/Debug/nunit.framework.xml
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.csprojResolveAssemblyReference.cache
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.csproj.CoreCompileInputs.cache
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.dll
+/Users/tonylu/Dropbox/codingame/Scrabble/Scrabble/obj/Debug/Scrabble.pdb
